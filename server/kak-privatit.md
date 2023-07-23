@@ -44,7 +44,7 @@ coverY: 0
 
 Возьмите топор в руку и нажмите [<mark style="color:green;">**ЛКМ**</mark> ](#user-content-fn-1)[^1]по блоку. Данная точка будет одним из углов вашего региона.
 
-<figure><img src="../.gitbook/assets/image (22) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (22) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 После этого отойдите на какое-то количество блоков от 1й точки и нажмите [<mark style="color:green;">**ПКМ**</mark>](#user-content-fn-2)[^2] по блоку.
 

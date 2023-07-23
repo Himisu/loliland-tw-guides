@@ -26,11 +26,11 @@ description: >-
 
  
 
-<figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption><p>Создание Инструмент начертания элементаля: Воздух</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (26) (1).png" alt=""><figcaption><p>Создание Инструмент начертания элементаля: Воздух</p></figcaption></figure>
 
 </div>
 
-<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption><p>Создание Слабый кристалл активации</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (22) (1).png" alt=""><figcaption><p>Создание Слабый кристалл активации</p></figcaption></figure>
 
 Создаются они достаточно легко, в связи с чем игрокам открываются новые возможности, а именно использование ритуалов. Благодаря данным ритуалам у вас появится множество полезных вещей, от создания воды до творческого полёта на территории вашего региона. Но учтите, что всё имеет свою цену, и ценой активации и поддержания работы ритуалов будет кровь из вашей сети.
 
@@ -50,11 +50,11 @@ description: >-
 
 Думаю, у вас остался вопрос как узнать последовательность в которой необходимо расставлять <mark style="color:green;">Ритуальные камни</mark>. С этим нет проблем. Вам всего лишь необходимо создать <mark style="color:blue;">Предсказатель ритуала</mark>.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Создание Предсказатель ритуала</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption><p>Создание Предсказатель ритуала</p></figcaption></figure>
 
 Когда вы создадите <mark style="color:blue;">Предсказатель ритуала</mark> у вас потратятся <mark style="color:green;">Инструменты начертания</mark>. Не спешите создавать новые, ведь с помощью <mark style="color:blue;">Предсказателя ритуала</mark> у вас отпадёт в них необходимость. Теперь вам нужно просто выбрать ритуал с помощью Shift + ПКМ[^1], а дальше, при постройке ритуала <mark style="color:blue;">Предсказатель ритуала</mark> будет сам ставить камни и красить их, но учтите, что <mark style="color:red;">это будет тратить кровь из вашей сети</mark>! При "прокрутке" ритуалов у вас будет меняться название предмета на название выбранного ритуала. Также выбранный ритуал можно посмотреть в инвентаре, при наведении на <mark style="color:blue;">Предсказатель ритуала</mark>.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Информация о ритуале</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Информация о ритуале</p></figcaption></figure>
 
 После выбора ритуала, вам необходимо посмотреть на <mark style="color:blue;">Предсказатель ритуала</mark> в инвентаре и подготовиться достаточное количество <mark style="color:green;">Ритуальных камней</mark>(посмотреть требуемое количество можно в предпоследней строке "<mark style="color:yellow;">Всего камней</mark>") Далее вам необходимо поставить <mark style="color:green;">Ритуальный камень мастера</mark>, нажать по нему <mark style="color:blue;">Предсказателем ритуала</mark>, а потом дождаться окончания постройки ритуала.
 
@@ -78,11 +78,11 @@ description: >-
 
 <div>
 
-<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption><p>Создание Инструмент начертания элементаля: Сумерки</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (21) (1).png" alt=""><figcaption><p>Создание Инструмент начертания элементаля: Сумерки</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption><p>Создание Инструмент начертания элементаля: Рассвет</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (30) (1).png" alt=""><figcaption><p>Создание Инструмент начертания элементаля: Рассвет</p></figcaption></figure>
 
 </div>
 
@@ -94,7 +94,7 @@ description: >-
 
  
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption><p>Улучшение Предсказателя ритуала <br>со 2го до 3го уровней</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13) (2).png" alt=""><figcaption><p>Улучшение Предсказателя ритуала <br>со 2го до 3го уровней</p></figcaption></figure>
 
 </div>
 
