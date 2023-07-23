@@ -32,6 +32,8 @@
 * [Наполнение предметов магией](thaumcraft/napolnenie-predmetov-magiei.md)
 * [Автоалхимия](thaumcraft/avtoalkhimiya.md)
 * [Улучшенная алхимическая печь](thaumcraft/uluchshennaya-alkhimicheskaya-pech.md)
+* [Осмотический стол зачарований](thaumcraft/osmoticheskii-stol-zacharovanii.md)
+* [Открытие ихора](thaumcraft/otkrytie-ikhora.md)
 * [Энергетика](thaumcraft/energetika.md)
 * [LoliMagically](thaumcraft/lolimagically.md)
 * [Все аспекты](thaumcraft/vse-aspekty.md)
