@@ -19,7 +19,7 @@
 
 * [Начало](blood-magic/nachalo.md)
 * [Алтарь и его уровни](blood-magic/altar-i-ego-urovni.md)
-* <img src="../.gitbook/assets/DivinationSigil.png" alt="" data-size="line">[Сигилы](blood-magic/sigily.md)
+* [Сигилы](blood-magic/sigily.md)
 * [Ритуалы](blood-magic/ritualy.md)
 * [Призыв существ](blood-magic/prizyv-sushestv.md)
 
