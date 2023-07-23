@@ -32,6 +32,7 @@
 * [Начало Алхимии](thaumcraft/nachalo-alkhimii.md)
 * [Автоалхимия](thaumcraft/avtoalkhimiya.md)
 * [Энергетика](thaumcraft/energetika.md)
+* [узлы ауры](thaumcraft/uzly-aury.md)
 
 ## Witchery
 
