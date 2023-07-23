@@ -19,6 +19,7 @@
 
 * [Начало](blood-magic/nachalo.md)
 * [Алтарь и его уровни](blood-magic/altar-i-ego-urovni.md)
+* [Алхимия](blood-magic/alkhimiya.md)
 * [Сигилы](blood-magic/sigily.md)
 * [Ритуалы](blood-magic/ritualy.md)
 * [Призыв существ](blood-magic/prizyv-sushestv.md)

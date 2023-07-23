@@ -19,7 +19,7 @@ coverY: 0
 
 **ПРИМЕР ДОГОВОРА:**
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Создание региона
 
@@ -38,13 +38,13 @@ coverY: 0
 
 &#x20;                              <mark style="color:blue;">`Вам выдали деревянный топор для создания регионов`</mark>
 
-Также у вас в инвентаре появится деревянный топор<img src="../.gitbook/assets/image (18).png" alt="" data-size="original">
+Также у вас в инвентаре появится деревянный топор<img src="../.gitbook/assets/image (18) (1).png" alt="" data-size="original">
 
 После выполнения данных действий, необходимо выделить границы региона.&#x20;
 
 Возьмите топор в руку и нажмите [<mark style="color:green;">**ЛКМ**</mark> ](#user-content-fn-1)[^1]по блоку. Данная точка будет одним из углов вашего региона.
 
-<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (22) (1).png" alt=""><figcaption></figcaption></figure>
 
 После этого отойдите на какое-то количество блоков от 1й точки и нажмите [<mark style="color:green;">**ПКМ**</mark>](#user-content-fn-2)[^2] по блоку.
 
