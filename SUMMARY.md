@@ -27,12 +27,12 @@
 ## Thaumcraft
 
 * [Первые шаги](thaumcraft/pervye-shagi.md)
-* [Все аспекты](thaumcraft/vse-aspekty.md)
-* [Наполнение предметов магией](thaumcraft/napolnenie-predmetov-magiei.md)
+* [Узлы ауры](thaumcraft/uzly-aury.md)
 * [Начало Алхимии](thaumcraft/nachalo-alkhimii.md)
+* [Наполнение предметов магией](thaumcraft/napolnenie-predmetov-magiei.md)
 * [Автоалхимия](thaumcraft/avtoalkhimiya.md)
 * [Энергетика](thaumcraft/energetika.md)
-* [узлы ауры](thaumcraft/uzly-aury.md)
+* [Все аспекты](thaumcraft/vse-aspekty.md)
 
 ## Witchery
 
