@@ -33,6 +33,7 @@
 * [Автоалхимия](thaumcraft/avtoalkhimiya.md)
 * [Улучшенная алхимическая печь](thaumcraft/uluchshennaya-alkhimicheskaya-pech.md)
 * [Энергетика](thaumcraft/energetika.md)
+* [LoliMagically](thaumcraft/lolimagically.md)
 * [Все аспекты](thaumcraft/vse-aspekty.md)
 
 ## Witchery

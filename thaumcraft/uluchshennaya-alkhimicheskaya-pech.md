@@ -1,10 +1,15 @@
+---
+cover: ../.gitbook/assets/изображение_2023-07-24_050201254.png
+coverY: 59
+---
+
 # Улучшенная алхимическая печь
 
 Сегодня мы познакомимся с продвинутой версией алхимической печи, он не требует топлива для плавки и гораздо быстрее обычной печи.
 
 Для начала нам потребуется скрафтить следующие элементы: 8 улучшенных алхимических конструкций, 4 алхимических конструкций, 4 перегонных куба и 1 алхимическая печь
 
-![](<../.gitbook/assets/image (42).png>)![](<../.gitbook/assets/image (33).png>)![](<../.gitbook/assets/image (37).png>)![](<../.gitbook/assets/image (24).png>)
+![](<../.gitbook/assets/image (42) (1).png>)![](<../.gitbook/assets/image (33) (1).png>)![](<../.gitbook/assets/image (37).png>)![](<../.gitbook/assets/image (24).png>)
 
 Строим конструкцию как на картинке:
 
@@ -20,12 +25,18 @@
 
 Выход же располагается с каждой из 4 ее сторон, снизу. Туда мы можем подключить трубы с  резервуаром эссенции или же банки для эссенции.
 
-![](<../.gitbook/assets/image (48).png>)![](<../.gitbook/assets/image (14).png>)
+![](<../.gitbook/assets/image (48) (1).png>)![](<../.gitbook/assets/image (14).png>)
 
 Питается наша улучшенная алхимическая печь аспектами с возбужденного узла ауры.(как его сделать, рассказывал ранее в гайдах, раздел [<mark style="color:green;">**Узлы ауры**</mark>](uzly-aury.md)). Для ее работы потребуется минимум 3 Ignis (огонь), 2 Aqua (вода) и 2 Perditio (хаос). <mark style="color:red;">Её скорость зависит только от количества Ignis (огонь) в узле!</mark>
 
-Что бы подключить Узел к печи, ее надо разместить рядом с узлом или через <mark style="color:yellow;">интерфейс вис-реле</mark>.
+Что бы подключить Узел к печи, ее надо разместить рядом с узлом или через <mark style="color:yellow;">вис-канал</mark>.
 
-![](<../.gitbook/assets/image (2).png>)
+<figure><img src="../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
 
-для
+Для подключение на большой дистанции нам потребуется 3 вис канала и жезл. Размещаем <mark style="color:yellow;">вис-канал</mark> в пределах 8 блоков от печи и жмем ПКМ, выбирая нужный цвет на каждом из 3(<mark style="color:red;">**красный**</mark>**, **<mark style="color:blue;">**синий**</mark> и <mark style="background-color:yellow;">**чёрный**</mark>)
+
+<figure><img src="../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+
+Теперь можно автоматизировать нашу эссенцию, поставив сверху воронку и сундук на входе. Складываем туда рессурсы и эссенция пошла по трубам!
+
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>

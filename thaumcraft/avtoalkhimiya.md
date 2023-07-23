@@ -23,7 +23,7 @@ coverY: -13
 
 Рассмотрим пример на создании <mark style="color:yellow;">**Нитора**</mark>. Открываем ее интерфейс и начинаем понимать, что к чему тут
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Слот для предмета
 2. Требуемая эссенция для создания
