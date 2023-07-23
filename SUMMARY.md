@@ -30,6 +30,8 @@
 * [Все аспекты](thaumcraft/vse-aspekty.md)
 * [Наполнение предметов магией](thaumcraft/napolnenie-predmetov-magiei.md)
 * [Начало Алхимии](thaumcraft/nachalo-alkhimii.md)
+* [Автоалхимия](thaumcraft/avtoalkhimiya.md)
+* [Энергетика](thaumcraft/energetika.md)
 
 ## Witchery
 
