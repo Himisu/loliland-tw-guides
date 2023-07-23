@@ -21,6 +21,6 @@ coverY: 57.963746223564954
 
 Эссенция в тигели имеет тенденцию деградировать. Сложные аспекты распадаются на их составные а основные уходят в атмосферу. Вместе с тратой ресурсов, вышедшая эссенция может устроить последствия!
 
-<figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (26) (1).png" alt=""><figcaption></figcaption></figure>
 
 Вы можете освободить тигель от воды нажав <mark style="color:red;">**Shift**</mark>+<mark style="color:red;">**ПКМ**</mark> по нему жезлом, после чего вся эссенция уйдёт в атмосферу.

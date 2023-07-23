@@ -31,6 +31,7 @@
 * [Начало Алхимии](thaumcraft/nachalo-alkhimii.md)
 * [Наполнение предметов магией](thaumcraft/napolnenie-predmetov-magiei.md)
 * [Автоалхимия](thaumcraft/avtoalkhimiya.md)
+* [Улучшенная алхимическая печь](thaumcraft/uluchshennaya-alkhimicheskaya-pech.md)
 * [Энергетика](thaumcraft/energetika.md)
 * [Все аспекты](thaumcraft/vse-aspekty.md)
 

@@ -26,7 +26,7 @@ description: >-
 
  
 
-<figure><img src="../.gitbook/assets/image (26) (1).png" alt=""><figcaption><p>Создание Инструмент начертания элементаля: Воздух</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (26) (1) (1).png" alt=""><figcaption><p>Создание Инструмент начертания элементаля: Воздух</p></figcaption></figure>
 
 </div>
 
@@ -50,7 +50,7 @@ description: >-
 
 Думаю, у вас остался вопрос как узнать последовательность в которой необходимо расставлять <mark style="color:green;">Ритуальные камни</mark>. С этим нет проблем. Вам всего лишь необходимо создать <mark style="color:blue;">Предсказатель ритуала</mark>.
 
-<figure><img src="../.gitbook/assets/image (34).png" alt=""><figcaption><p>Создание Предсказатель ритуала</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (34) (1).png" alt=""><figcaption><p>Создание Предсказатель ритуала</p></figcaption></figure>
 
 Когда вы создадите <mark style="color:blue;">Предсказатель ритуала</mark> у вас потратятся <mark style="color:green;">Инструменты начертания</mark>. Не спешите создавать новые, ведь с помощью <mark style="color:blue;">Предсказателя ритуала</mark> у вас отпадёт в них необходимость. Теперь вам нужно просто выбрать ритуал с помощью Shift + ПКМ[^1], а дальше, при постройке ритуала <mark style="color:blue;">Предсказатель ритуала</mark> будет сам ставить камни и красить их, но учтите, что <mark style="color:red;">это будет тратить кровь из вашей сети</mark>! При "прокрутке" ритуалов у вас будет меняться название предмета на название выбранного ритуала. Также выбранный ритуал можно посмотреть в инвентаре, при наведении на <mark style="color:blue;">Предсказатель ритуала</mark>.
 
@@ -78,7 +78,7 @@ description: >-
 
 <div>
 
-<figure><img src="../.gitbook/assets/image (21) (1).png" alt=""><figcaption><p>Создание Инструмент начертания элементаля: Сумерки</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (21) (1) (1).png" alt=""><figcaption><p>Создание Инструмент начертания элементаля: Сумерки</p></figcaption></figure>
 
  
 

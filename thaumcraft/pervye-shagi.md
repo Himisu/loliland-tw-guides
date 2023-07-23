@@ -22,7 +22,7 @@ coverY: 165
 
 Далее заходим в "Таумоникон", Перед вами открывается следующая картина:
 
-<figure><img src="../.gitbook/assets/image (20) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (20) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -30,7 +30,7 @@ coverY: 165
 
 Жмем ПКМ по исследованию и у нас появляется "Записка исследований"(Можно взять только одну запись!)
 
-<figure><img src="../.gitbook/assets/image (21) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (21) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:red;">**Так же проверяйте количество аспектов для изучений,  в некоторых записках они потребуются!**</mark>
 
