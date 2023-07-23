@@ -29,6 +29,7 @@
 * [Первые шаги](thaumcraft/pervye-shagi.md)
 * [Все аспекты](thaumcraft/vse-aspekty.md)
 * [Наполнение предметов магией](thaumcraft/napolnenie-predmetov-magiei.md)
+* [Начало Алхимии](thaumcraft/nachalo-alkhimii.md)
 
 ## Witchery
 

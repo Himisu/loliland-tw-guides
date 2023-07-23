@@ -50,7 +50,7 @@ description: >-
 
 Думаю, у вас остался вопрос как узнать последовательность в которой необходимо расставлять <mark style="color:green;">Ритуальные камни</mark>. С этим нет проблем. Вам всего лишь необходимо создать <mark style="color:blue;">Предсказатель ритуала</mark>.
 
-<figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption><p>Создание Предсказатель ритуала</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (34).png" alt=""><figcaption><p>Создание Предсказатель ритуала</p></figcaption></figure>
 
 Когда вы создадите <mark style="color:blue;">Предсказатель ритуала</mark> у вас потратятся <mark style="color:green;">Инструменты начертания</mark>. Не спешите создавать новые, ведь с помощью <mark style="color:blue;">Предсказателя ритуала</mark> у вас отпадёт в них необходимость. Теперь вам нужно просто выбрать ритуал с помощью Shift + ПКМ[^1], а дальше, при постройке ритуала <mark style="color:blue;">Предсказатель ритуала</mark> будет сам ставить камни и красить их, но учтите, что <mark style="color:red;">это будет тратить кровь из вашей сети</mark>! При "прокрутке" ритуалов у вас будет меняться название предмета на название выбранного ритуала. Также выбранный ритуал можно посмотреть в инвентаре, при наведении на <mark style="color:blue;">Предсказатель ритуала</mark>.
 
@@ -60,7 +60,7 @@ description: >-
 
 После окончания постройки ритуала активируйте его, нажав <mark style="color:green;">Слабым кристаллом активации</mark> по <mark style="color:green;">Ритуальному камню мастера</mark>.  После успешной активации ритуала у вас в чате появится такое сообщение:
 
-<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption><p>Сообщение об успешном активации ритуала</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (19) (1).png" alt=""><figcaption><p>Сообщение об успешном активации ритуала</p></figcaption></figure>
 
 ## Усложнённые ритуалы
 
@@ -112,7 +112,7 @@ description: >-
 
 Для решения данного вопроса нам необходимо создать <mark style="color:blue;">Пробуждённый кристалл активации</mark>.
 
-<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption><p>Создание Пробуждённый кристалл активации</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (18) (1).png" alt=""><figcaption><p>Создание Пробуждённый кристалл активации</p></figcaption></figure>
 
 Для его создания требуется либо Адская звезда, либо <mark style="color:red;">Осколок крови демона</mark>, а также <mark style="color:yellow;">Алхимические реагенты</mark>.&#x20;
 

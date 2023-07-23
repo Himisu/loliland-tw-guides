@@ -9,27 +9,27 @@ coverY: 0
 # Наполнение предметов магией
 
 Следующим этапом развития крафтов будет наполнение предметов на рунической матрице. Для её создания нам понадобятся 4 магических камня, 4 магических кирпича, 1магический пьедестал и сама руническая матрица\
-<img src="../.gitbook/assets/image (26).png" alt="" data-size="original">![](<../.gitbook/assets/image (39).png>)![](<../.gitbook/assets/image (37).png>)![](<../.gitbook/assets/image (13).png>)
+<img src="../.gitbook/assets/image (32).png" alt="" data-size="original">![](<../.gitbook/assets/image (41).png>)![](<../.gitbook/assets/image (39).png>)![](<../.gitbook/assets/image (16).png>)
 
 После того, как мы скрафтили нужные предметы, строим такую конструкцию:
 
-<figure><img src="../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
 
 По блоку рунической матрицы щелкаем жезлом с 25 аспектами, после чего матрица преобразится - вы все сделали правильно.&#x20;
 
-<figure><img src="../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
 
-У матрицы, есть «параметр» - стабильность. Чтобы её стабилизировать, необходимо рааставлять все объекты в ее зоне действия зеркально, а так же окружать черепами мобов/кристальными кластерами/свечами таумкрафта/грибами ботании яйцо дракона. Или использовать стабилизатор матрицы. Так же желательно заменить пол на магический камень.
+У матрицы, есть «параметр» - стабильность. Чтобы её стабилизировать, необходимо расставлять все объекты в ее зоне действия зеркально, а так же окружать черепами мобов/кристальными кластерами/свечами таумкрафта/грибами ботании яйцо дракона. Или использовать стабилизатор матрицы. Так же желательно заменить пол на магический камень.
 
 <figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
-После её постройки мы можем приступать к крафтам на ней. Для её крафта требуются жидкие аспекты – эссенции, их мы получим в алхимической печи.![](<../.gitbook/assets/image (44).png>)![](<../.gitbook/assets/image (14).png>)
+После её постройки мы можем приступать к крафтам на ней. Для её крафта требуются жидкие аспекты – эссенции, их мы получим в алхимической печи.![](<../.gitbook/assets/image (46).png>)![](<../.gitbook/assets/image (18).png>)
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 Открыв алхимическую печь, у вас появляется ее интерфейс:
 
-<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 
 1.Буфер эссенции\
 2.Слот для топлива\
@@ -38,15 +38,15 @@ coverY: 0
 
 Ставим печь, на неё сверху перегонные кубы, в неё складываем уголь, как топливо, в верхний слот – предметы, которые необходимо плавить на эссенции аспектов. Со временем печь, будет выдавать полученные эссенции в перегонные кубы, собираем их от туда банками.
 
-![](<../.gitbook/assets/image (34).png>)
+![](<../.gitbook/assets/image (36).png>)
 
 Так же эссенцию можно разделить на ее составляющие при помощи алхимической центрифуги и труб для эссенции\
-![](<../.gitbook/assets/image (30).png>)![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (33).png>)![](../.gitbook/assets/image.png)
 
 Снизу у алхимической центрифуги вход сверху выход, ставим как на картинке. \
 Таким образом мы можем получить все первоначальные аспекты, например из Fabrico.
 
-<figure><img src="../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
 
 
 
