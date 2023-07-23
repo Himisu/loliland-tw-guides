@@ -14,7 +14,7 @@ coverY: 57.963746223564954
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 Разберём на примере нитора, как крафтить на нём. Видим, что нам необходимо по 3 Potentia, Lux, Ignis. \
-![](<../.gitbook/assets/image (24).png>)\
+![](<../.gitbook/assets/image (24) (1).png>)\
 Для удобства, мы можем скрафтить сразу 2 нитора, необходимо в тигель выкинуть 3 угля и 6 факелов. После этого кинуть 2 светящийся пыли, и вы получите 2 нитора.
 
 <figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>

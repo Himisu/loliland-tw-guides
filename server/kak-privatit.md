@@ -19,7 +19,7 @@ coverY: -110.45921450151057
 
 **ПРИМЕР ДОГОВОРА:**
 
-<figure><img src="../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Создание региона
 
@@ -44,7 +44,7 @@ coverY: -110.45921450151057
 
 Возьмите топор в руку и нажмите [<mark style="color:green;">**ЛКМ**</mark> ](#user-content-fn-1)[^1]по блоку. Данная точка будет одним из углов вашего региона.
 
-<figure><img src="../.gitbook/assets/image (22) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (22) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 После этого отойдите на какое-то количество блоков от 1й точки и нажмите [<mark style="color:green;">**ПКМ**</mark>](#user-content-fn-2)[^2] по блоку.
 

@@ -14,7 +14,7 @@ coverY: 165
 После создания палочки, создайте книжную полку, поставьте её и нажмите по ней ПКМ держа палочку\
 
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p><br></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p><br></p></figcaption></figure>
 
 Поставьте рядом 2 стола, и нажмите ПКМ по любому из них чернильницей. Таким образом вы получите стол исследований.
 
@@ -34,7 +34,7 @@ coverY: 165
 
 <mark style="color:red;">**Так же проверяйте количество аспектов для изучений,  в некоторых записках они потребуются!**</mark>
 
-<figure><img src="../.gitbook/assets/image (14) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 После того, как у вас появилась "Записки исследований", положите её в Стол исследований.
 
@@ -49,7 +49,7 @@ coverY: 165
 
 После создания Таумометра наводите на любой блок и зажимайте ПКМ(если это блок с интерфейсом Shift+ ПКМ).
 
-<figure><img src="../.gitbook/assets/image (24) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (24) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 При изучении вещей у вас может появится похожая надпись. Если она появляется, то сначала исследуйте то, что сказано. Например тут написано про людей, значит сначала мне необходимо найти и попробовать изучить жителей.![](<../.gitbook/assets/image (8) (1).png>)
 
