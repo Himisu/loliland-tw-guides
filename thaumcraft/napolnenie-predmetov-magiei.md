@@ -8,8 +8,20 @@ coverY: -68.90030211480362
 
 # Наполнение предметов магией
 
-Следующим этапом развития крафтов будет наполнение предметов на рунической матрице. Для её создания нам понадобятся 4 магических камня, 4 магических кирпича, 1магический пьедестал и сама руническая матрица\
-<img src="../.gitbook/assets/image (32).png" alt="" data-size="original">![](<../.gitbook/assets/image (41).png>)![](<../.gitbook/assets/image (39).png>)![](<../.gitbook/assets/image (16).png>)
+Следующим этапом развития крафтов будет наполнение предметов на рунической матрице. Для её создания нам понадобятся 4 магических камня, 4 магических кирпича, 1магический пьедестал и сама руническая матрица
+
+\
+![](<../.gitbook/assets/image (41).png>)![](<../.gitbook/assets/image (39).png>)![](<../.gitbook/assets/image (16).png>)
+
+<div>
+
+<figure><img src="../.gitbook/assets/image (32).png" alt="" width="254"><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/image (35).png" alt="" width="267"><figcaption></figcaption></figure>
+
+</div>
 
 После того, как мы скрафтили нужные предметы, строим такую конструкцию:
 
